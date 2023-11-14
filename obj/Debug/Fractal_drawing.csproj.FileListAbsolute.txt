@@ -1,0 +1,10 @@
+E:\vs_projects\Fractal_drawing\bin\Debug\Fractal_drawing.exe.config
+E:\vs_projects\Fractal_drawing\bin\Debug\Fractal_drawing.exe
+E:\vs_projects\Fractal_drawing\bin\Debug\Fractal_drawing.pdb
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.csproj.AssemblyReference.cache
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.FSierpinski_Triangle.resources
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.Properties.Resources.resources
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.csproj.GenerateResource.cache
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.csproj.CoreCompileInputs.cache
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.exe
+E:\vs_projects\Fractal_drawing\obj\Debug\Fractal_drawing.pdb
